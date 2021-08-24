@@ -23,7 +23,7 @@ const particlesOptions = {
 }
 
 const app = new Clarifai.App({
-  apiKey: 'aac748d1486e4a7d86f34a93f94f65bc'
+  apiKey: 'API KEY'
  });
 
 class App extends React.Component {
